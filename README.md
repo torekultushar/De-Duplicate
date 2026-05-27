@@ -50,20 +50,7 @@ Works on:
 - m4v
 
 
-# Project Structure
-
-```text
-De-Duplicate/
-├── main.py
-├── Raw/
-├── Filtered/
-│   ├── Images/
-│   └── Videos/
-├── README.md
-└── requirements.txt
-
-
-# Installation
+# Installation Guide 
 
 ## 1. Clone Repository
 
