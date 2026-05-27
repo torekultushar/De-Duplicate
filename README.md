@@ -56,6 +56,7 @@ Works on:
 ```bash
 git clone https://github.com/torekultushar/De-Duplicate.git
 cd De-Duplicate
+```
 
 ## 2. Install Python
 
@@ -66,23 +67,26 @@ https://www.python.org/downloads/
 Check version:
 ```bash
 python --version
+```
 
 ## 3. Install Requirements
 ```bash
 pip install -r requirements.txt
+```
 
 # Windows
 ```bash
 python main.py
+```
 
 # Linux / macOS
 ```bash
 python3 main.py
-
+```
 # Termux
 ```bash
 python main.py
-
+```
 # How Duplicate Detection Works 
 
 The script does NOT compare filenames.
@@ -96,4 +100,6 @@ Put all files inside the Raw folder.
 Run the script.
 
 # Requirements
+```bash
 Python 3.8+
+```
